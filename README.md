@@ -1,6 +1,6 @@
 ## Hi! I'm Arthur
 
-I have been working with Software Testing since 2020 and I really like automating things!
+Software testing professional with a focus on functional, acceptance, and end‑to‑end testing, applying black‑box testing techniques on Android applications with Java, JUnit and UiAutomator and on Web applications with Selenium WebDriver, Java and JUnit. 
 
 <div>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ARodrigo2001&show_icons=true&theme=tokyonight&title_color=0000FF&icon_color=0000FF&text_color=fff" />
@@ -14,6 +14,7 @@ I have been working with Software Testing since 2020 and I really like automatin
   <img align="center" alt="JUnit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg">
   <img align="center" alt="Maven" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
 </div>   
 
 #
