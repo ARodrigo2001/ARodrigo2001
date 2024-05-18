@@ -1,4 +1,6 @@
-## Opa! Meu nome é Arthur
+## Hi! I'm Arthur
+
+I have been working with Software Testing since 2020 and I really like automating things!
 
 <div>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ARodrigo2001&show_icons=true&theme=tokyonight&title_color=0000FF&icon_color=0000FF&text_color=fff" />
